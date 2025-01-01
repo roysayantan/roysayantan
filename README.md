@@ -27,8 +27,16 @@ Hi there! 👋 I'm **Sayantan Roy**.<br>
 ---
 
 # 📊 GitHub Stats:
-![roysayantan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roysayantan&theme=vue-dark&hide_border=true)
-![roysayantan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roysayantan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+
+## My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roysayantan&layout=compact&theme=dark)
+
+
+
+
 
 
 ---
