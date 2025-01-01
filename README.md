@@ -28,7 +28,7 @@ Hi there! 👋 I'm **Sayantan Roy**.<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=roysayantan&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=roysayantan&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roysayantan&theme=cobalt&hide_border=true)
 
 
 ---
